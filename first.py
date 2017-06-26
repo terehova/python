@@ -1,2 +1,2 @@
-print "Hello world!!!"
-print "Bad commit,delet me,please!"
+print "Hello everybody!!!"
+
